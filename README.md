@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Eric 👋
 
+I am a computer engineering student at the federal university of São Carlos
 <!--
 **ericsales/ericsales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
